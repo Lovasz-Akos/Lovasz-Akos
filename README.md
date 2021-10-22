@@ -2,9 +2,9 @@
 
 It's mostly filled with university projects but there's some cool things here and there.
 
-- Currently studying Software Engineering at [Eszterházi Károly Katolikus Egyetem]([https://link](https://uni-eszterhazy.hu/)) in Eger, Hungary 🤔
+- Currently studying Software Engineering at [Eszterházi Károly Katolikus Egyetem](https://uni-eszterhazy.hu/) in Eger, Hungary 🤔
 
-- Thesis work repo is [this one]([https://link](https://github.com/LovaszAkos/Szakdolgozat-FMNUMU)). (It's smarthome temed 😳)
+- Thesis work repo is [this one](https://github.com/LovaszAkos/Szakdolgozat-FMNUMU). (It's smarthome temed 😳)
 
 ## Languages I'm fluent in
 - C#
