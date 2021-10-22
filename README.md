@@ -13,6 +13,7 @@ It's mostly filled with university projects but there's some cool things here an
 
 ## Languages I'm familar with 🙂
 - 8086 Assembly
+- Python
 - C++
 - PHP
 
