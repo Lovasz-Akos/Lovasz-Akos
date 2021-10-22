@@ -17,6 +17,10 @@ It's mostly filled with university projects but there's some cool things here an
 - C++
 - PHP
 
+
+
+
 ## Take a look at my stats! 🍕
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=LovaszAkos&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LovaszAkos&layout=compact&hide=HTML,TeX,SCSS,Less,CSS&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
