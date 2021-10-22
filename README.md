@@ -1,4 +1,4 @@
-# Sooooo...this is my profile :)
+# Sooooo...this is my profile. Hello! 👋
 
 It's mostly filled with university projects but there's some cool things here and there.
 
@@ -6,12 +6,12 @@ It's mostly filled with university projects but there's some cool things here an
 
 - Thesis work repo is [this one](https://github.com/LovaszAkos/Szakdolgozat-FMNUMU). (It's smarthome temed 😳)
 
-## Languages I'm fluent in
+## Languages I'm fluent in 😎
 - C#
 - Java
 - JavaScript
 
-## Languages I'm familar with
+## Languages I'm familar with 🙂
 - 8086 Assembly
 - C++
 - PHP
