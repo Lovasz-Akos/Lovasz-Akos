@@ -15,8 +15,6 @@ It's mostly filled with university projects but there's some cool things here an
 - 8086 Assembly
 - C++
 - PHP
-  
-<br/>
 
 ## Take a look at my stats! 🍕
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=LovaszAkos&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
