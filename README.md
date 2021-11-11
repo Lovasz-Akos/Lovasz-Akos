@@ -21,6 +21,6 @@ It's mostly filled with university projects but there's some cool things here an
 
 
 ## Take a look at my stats! 🍕
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=LovaszAkos&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lovasz-Akos&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LovaszAkos&layout=compact&hide=HTML,TeX,SCSS,Less,CSS&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lovasz-Akos&layout=compact&hide=HTML,TeX,SCSS,Less,CSS&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
