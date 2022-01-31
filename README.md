@@ -6,6 +6,8 @@ It's mostly filled with university projects but there's some cool things here an
 
 - Thesis work repo is [this one](https://github.com/LovaszAkos/Szakdolgozat-FMNUMU). (It's Smart-Home themed 😳)
 
+- Neptun PowerUp++ [install](https://github.com/LovaszAkos/Neptun_tinker_npu_compatible/raw/master/neptun_tinker.user.js)
+
 ## Languages I'm fluent in 😎
 - C#
 - Java
