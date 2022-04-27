@@ -1,6 +1,6 @@
 # Sooooo...this is my profile. Hello! 👋
 
-It's mostly filled with university projects but there's some cool things here and there.
+My repos are mostly university projects but there's some cool things here and there.
 
 - Currently studying Software Engineering at [Eszterházi Károly Katolikus Egyetem](https://uni-eszterhazy.hu/) in Eger, Hungary 🤔
 
