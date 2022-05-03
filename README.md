@@ -21,7 +21,11 @@ My repos are mostly university projects but there's some cool things here and th
 - C++
 - PHP
 
+## Things I'm currently learning 🤯
 
+- Flutter
+- Dart
+- Docker
 
 
 ## Take a look at my stats! 🍕
