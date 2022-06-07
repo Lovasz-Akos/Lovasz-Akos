@@ -26,6 +26,7 @@ My repos are mostly university projects but there's some cool things here and th
 - Flutter
 - Dart
 - Docker
+- Kotlin
 
 
 ## Take a look at my stats! 🍕
