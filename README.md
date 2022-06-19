@@ -4,9 +4,7 @@ My repos are mostly university projects but there's some cool things here and th
 
 - Got my bachelor's degree at [Eszterházi Károly Katolikus Egyetem](https://uni-eszterhazy.hu/) in 2022 as a Computer Scientist 👨‍🎓
 
-- Thesis work repo is [this one](https://github.com/LovaszAkos/Szakdolgozat-FMNUMU). (It's Smart-Home themed 😳)
-
-- NeptunTinker [install](https://github.com/LovaszAkos/Neptun_tinker_npu_compatible/raw/master/neptun_tinker.user.js)
+- Thesis work repo is [this one](https://github.com/LovaszAkos/Szakdolgozat-FMNUMU). (It's Smart-Home themed 🏡)
 
 ## Languages I'm fluent in 😎
 
