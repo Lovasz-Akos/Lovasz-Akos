@@ -2,7 +2,7 @@
 
 My repos are mostly university projects but there's some cool things here and there.
 
-- Currently studying Software Engineering at [Eszterházi Károly Katolikus Egyetem](https://uni-eszterhazy.hu/) in Eger, Hungary 🤔
+- Got my bachelor's degree at [Eszterházi Károly Katolikus Egyetem](https://uni-eszterhazy.hu/) in 2022 as a Computer Scientist 👨‍🎓
 
 - Thesis work repo is [this one](https://github.com/LovaszAkos/Szakdolgozat-FMNUMU). (It's Smart-Home themed 😳)
 
