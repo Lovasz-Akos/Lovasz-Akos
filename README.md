@@ -2,9 +2,9 @@
 
 My repos are mostly university projects but there's some cool things here and there.
 
-- Got my bachelor's degree at [Eszterházi Károly Katolikus Egyetem](https://uni-eszterhazy.hu/) in 2022 as a Computer Scientist 👨‍🎓
+- Got my bachelor's degree at [Eszterházi Károly Katolikus Egyetem](https://uni-eszterhazy.hu/) in 2022 as a Software Engineer 👨‍🎓
 
-- Thesis work repo is [this one](https://github.com/LovaszAkos/Szakdolgozat-FMNUMU). (It's Smart-Home themed 🏡)
+- Thesis work repo is [this one](https://github.com/LovaszAkos/Szakdolgozat-FMNUMU). (It's an Android Smart-Home dashboard using MQTT and Node-RED 🏡)
 
 ## Languages I'm fluent in 😎
 
