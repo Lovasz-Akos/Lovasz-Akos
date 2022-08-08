@@ -18,11 +18,11 @@ My repos are mostly university projects but there's some cool things here and th
 - Python
 - C++
 - PHP
+- Arduino
 
 ## Things I'm currently learning 🤯
 
 - Flutter
-- Dart
 - Docker
 - Kotlin
 
