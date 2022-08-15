@@ -29,7 +29,7 @@ My repos are mostly university projects but there's some cool things here and th
 
 ## Take a look at my stats! 🍕
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lovasz-Akos&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lovasz-Akos&show_icons=true&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lovasz-Akos&layout=compact&hide=HTML,TeX,SCSS,Less,CSS&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
