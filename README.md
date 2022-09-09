@@ -22,9 +22,7 @@ My repos are mostly university projects but there's some cool things here and th
 
 ## Things I'm currently learning 🤯
 
-- Flutter
-- Docker
-- Kotlin
+- How to avoid work
 
 
 ## Take a look at my stats! 🍕
