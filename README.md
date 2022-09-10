@@ -22,7 +22,9 @@ My repos are mostly university projects but there's some cool things here and th
 
 ## Things I'm currently learning 🤯
 
-- How to avoid work
+- IoT Communications (Zigbee Z-Wave, etc)
+- Smarthome Automation
+- All kinds of things really
 
 
 ## Take a look at my stats! 🍕
