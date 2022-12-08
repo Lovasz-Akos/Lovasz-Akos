@@ -1,4 +1,4 @@
-# Sooooo...this is my profile. Hello! 👋
+# I'm Ákos, also known as Naara. Hello! 👋
 
 My repos are mostly university projects but there's some cool things here and there.
 
