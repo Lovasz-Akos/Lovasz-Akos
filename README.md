@@ -3,8 +3,13 @@
 My repos are mostly university projects but there's some cool things here and there.
 
 - Got my bachelor's degree at [Eszterházi Károly Katolikus Egyetem](https://uni-eszterhazy.hu/) in 2022 as a Software Engineer 👨‍🎓
-
 - Thesis work repo is [this one](https://github.com/LovaszAkos/Szakdolgozat-FMNUMU). (It's an Android Smart-Home dashboard using MQTT and Node-RED 🏡)
+
+## Currently working on 🏢
+
+- IoT Communications (Zigbee, Z-Wave, etc)
+- Smarthome Automation
+- All kinds of things really
 
 ## Languages I'm fluent in 😎
 
@@ -14,18 +19,22 @@ My repos are mostly university projects but there's some cool things here and th
 
 ## Languages I'm familar with 🙂
 
-- 8086 Assembly
 - Python
 - C++
 - PHP
 - Arduino
 
-## Things I'm currently learning 🤯
+## Obscure things I've tried 🤨
 
-- IoT Communications (Zigbee, Z-Wave, etc)
-- Smarthome Automation
-- All kinds of things really
+- 8086 Assembly
+- Racket
 
+## Hobbies 🎾
+
+- Gaming
+- Animation
+- Tennis
+- Terminal rice
 
 ## Take a look at my stats! 🍕
 
