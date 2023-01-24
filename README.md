@@ -7,7 +7,7 @@ My repos are mostly university projects but there's some cool things here and th
 
 ## Currently working on 🏢
 
-- IoT Communications (Zigbee, Z-Wave, etc)
+- IoT Communications (mostly zigbee and mqtt)
 - Smarthome Automation
 - All kinds of things really
 
@@ -17,7 +17,7 @@ My repos are mostly university projects but there's some cool things here and th
 - Java
 - JavaScript
 
-## Languages I'm familar with 🙂
+## Languages I'm somewhat familiar with 🙂
 
 - Python
 - C++
