@@ -8,7 +8,7 @@ My repos are mostly university projects but there's some cool things here and th
 ## Currently working on 🏢
 
 - IoT Communications (mostly zigbee and mqtt)
-- Smarthome Automation
+- Smarthome technoligies and integrations
 - All kinds of things really
 
 ## Languages I'm fluent in 😎
