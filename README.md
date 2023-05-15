@@ -28,6 +28,12 @@ My repos are mostly university projects but there's some cool things here and th
 - 8086 Assembly
 - Racket
 
+## Learning 😮
+
+- Flutter
+- Dart
+- Vue
+
 ## Hobbies 🎾
 
 - Gaming
