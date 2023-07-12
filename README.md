@@ -7,7 +7,7 @@ My repos are mostly university projects but there's some cool things here and th
 
 ## Currently working on 🏢
 
-- [IsShopping](https://github.com/Fasz-kivan/IsShopping), my shopping list app written in flutter!
+- ⭐[IsShopping](https://github.com/Fasz-kivan/IsShopping)⭐, my shopping list app written in flutter!
 - IoT Communications (mostly zigbee and mqtt)
 - Smarthome technoligies and integrations
 - All kinds of things really
