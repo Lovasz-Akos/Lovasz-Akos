@@ -45,8 +45,7 @@ My repos are mostly university projects but there's some cool things here and th
 ## Take a look at my stats! 🍕
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lovasz-Akos&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lovasz-Akos&layout=compact&hide=HTML,TeX,SCSS,Less,CSS&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) -->
+![Github Card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lovasz-Akos&theme=dracula)
 
 ## I'm thirsty ☕
 
