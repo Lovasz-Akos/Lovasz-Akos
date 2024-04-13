@@ -1,52 +1,46 @@
-# I'm Ákos, also known as Naara. Hello! 👋
+# I'm Ákos, also known as Naara. Hi! 🦌
 
-My repos are mostly university projects but there's some cool things here and there.
+My repos are mostly university projects but I have some small projects too, also checkout my orgs.
 
-- Got my bachelor's degree at [Eszterházi Károly Katolikus Egyetem](https://uni-eszterhazy.hu/) in 2022 as a Software Engineer 👨‍🎓
-- Thesis work repo is [this one](https://github.com/LovaszAkos/Szakdolgozat-FMNUMU). (It's an Android Smart-Home dashboard using MQTT and Node-RED 🏡)
+- Got my bachelor's degree at [Eszterházi Károly Katolikus Egyetem](https://uni-eszterhazy.hu/) in 2022 as a Software Engineer 👨‍🎓, you can find my thesis project [here](https://github.com/LovaszAkos/Szakdolgozat-FMNUMU)
 
-## Currently working on 🏢
+## Currently working on 💻
+
+### Work
+
+- Junior Developer at [Chameleon Smarthome](https://chameleon-smarthome.com/)
+  - Smarthome Automation
+  - Integrating with other systems such as
+    - Zigbee
+    - Z-Wave
+    - Shelly
+    - DSC PowerSeries and NEO
+    - Etc.
+
+### Personal
 
 - ⭐[IsShopping](https://github.com/Fasz-kivan/IsShopping)⭐, my shopping list app written in flutter!
-- IoT Communications (mostly zigbee and mqtt)
-- Smarthome technoligies and integrations
-- All kinds of things really
+- Getting better at programming
 
-## Languages I'm fluent in 😎
+## Language prefrences 😎
 
-- C#
-- Java
-- JavaScript
+I currently prefer C# over others for both work and personal projects on the backend.
 
-## Languages I'm somewhat familiar with 🙂
+While I'm not too well versed in web stuff, I'm just fine with javascript, though typescript is a nice spin for obvious reasons.
 
-- Python
-- C++
-- Arduino
+On mobile only flutter comes to mind, miss me with that react native.
 
-## Obscure things I've tried 🤨
-
-- 8086 Assembly
-- Racket
-
-## Learning 😮
-
-- Flutter
-- Dart
-- Vue
+Anything else is just dependant on what's needed, I'd rather know the problem before choosing the tool.
 
 ## Hobbies 🎾
 
 - Gaming
-- Animation
+- Smarthome / Automation
+- [3D Animation](https://www.youtube.com/channel/UCZQChD4t6bSUw8aIYM1SMFA)
 - Tennis
-- Terminal rice
+- [Terminal rice](https://github.com/Lovasz-Akos/ConfigPool/tree/main/terminal)
 
 ## Take a look at my stats! 🍕
 
 ![Summary stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lovasz-Akos&theme=dracula) 
 ![Github Card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lovasz-Akos&theme=dracula)
-
-## I'm thirsty ☕
-
-<a href='https://ko-fi.com/naara_boi' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
