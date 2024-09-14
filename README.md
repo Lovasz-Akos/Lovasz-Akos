@@ -8,7 +8,7 @@ My repos are mostly university projects but I have some small projects too, also
 
 ### Work
 
-- Junior Developer at [Chameleon Smarthome](https://chameleon-smarthome.com/en)
+- Developer at [Chameleon Smarthome](https://chameleon-smarthome.com/en)
   - Smarthome Automation
   - Integrating with other systems such as
     - Zigbee
