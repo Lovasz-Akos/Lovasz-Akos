@@ -42,5 +42,5 @@ Anything else is just dependant on what's needed, I'd rather know the problem be
 
 ## Take a look at my stats! 🍕
 
-![Summary stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lovasz-Akos&theme=onedark) 
-![Github Card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lovasz-Akos&theme=onedark)
+![Summary stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lovasz-Akos&theme=gotham) 
+![Github Card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lovasz-Akos&theme=gotham)
